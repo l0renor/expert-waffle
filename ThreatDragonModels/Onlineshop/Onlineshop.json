@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Onlineshop",
+    "owner": "Leon",
+    "description": "ITSM PRaktikum"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "freinold"
+      }
+    ],
+    "diagrams": []
+  }
+}
