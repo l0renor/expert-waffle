@@ -10,6 +10,12 @@
         "name": "freinold"
       }
     ],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "Bedroungsanalyse",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
