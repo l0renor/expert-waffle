@@ -9,5 +9,15 @@ Bei Wunsch einer Besichtigung könnt ihr uns gerne per E-mail oder per Telefon e
 E-mail: Bastianscheffler@gmail.com
 
 Telefon: 0179/1340788
-
+## Grundriss
+![Grundriss](https://raw.githubusercontent.com/l0renor/expert-waffle/meister/PastedGraphic-1.png "Bad")
+## Bad
 ![Bad](https://raw.githubusercontent.com/l0renor/expert-waffle/meister/Bad%20und%20WC.jpg "Bad")
+## Wohnzimmer
+![Wohnzimmer](https://raw.githubusercontent.com/l0renor/expert-waffle/meister/Wohnzimmer.jpg "Wohnzimmer")
+## Flur
+![Flur](https://raw.githubusercontent.com/l0renor/expert-waffle/meister/Flur.jpg)
+## Küche
+![Küche](https://raw.githubusercontent.com/l0renor/expert-waffle/meister/Ku%CC%88che.jpg "Küche")
+## Schlafzimmer
+![Schlafzimmer](https://raw.githubusercontent.com/l0renor/expert-waffle/meister/Schlafzimmer.jpg "Schlafzimmer")
